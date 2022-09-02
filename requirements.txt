@@ -1,2 +1,11 @@
-voila==0.2.6
-ipywidgets==7.6.3
+voila
+ipywidgets
+jupyterlab
+requests
+pandas
+textblob
+nltk
+plotly-express
+pytest
+ipyvuetify
+voila-vuetify
